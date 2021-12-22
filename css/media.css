@@ -1,0 +1,460 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header */
+  header {
+    padding: 10px;
+  }
+  .logo {
+    font-size: 22px;
+  }
+  .menu ul li a {
+    margin: 8px 0 0;
+    padding: 0;
+    font-size: 14px;
+    text-align: right;
+  }
+  .c_btn {
+    margin-left: 165px;
+  }
+
+  /* banner start */
+  .b_txt {
+    margin: 20px 0;
+    text-align: center;
+  }
+  .b_h1 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .b_p {
+    margin: 15px 0;
+    word-spacing: 0px;
+    font-size: 13px;
+  }
+  /* banner end */
+  /* company start */
+  .company {
+    padding: 40px 0;
+  }
+  /* company end */
+  /* feature start */
+  .cf_p {
+    line-height: 20px;
+    font-size: 14px !important;
+  }
+  .f_h1 {
+    font-size: 30px;
+  }
+  .xsm_mb {
+    line-height: 30px;
+    margin-bottom: 15px;
+  }
+  .f_p {
+    line-height: 24px;
+  }
+  /* feature end */
+  /* smart start */
+  .cm_border {
+    border: none !important;
+  }
+  .s_h1 {
+    text-align: center;
+    font-size: 27px;
+  }
+  .s_p {
+    text-align: center;
+  }
+  /* smart end */
+  /* service start */
+  .sc_h2 {
+    margin-bottom: 13px;
+    text-align: center;
+  }
+  .sc_p {
+    text-align: center;
+  }
+
+  .sc_img {
+    justify-content: center;
+    display: flex;
+  }
+  /* service end */
+  /* design start */
+  .design {
+    padding: 30px 0;
+  }
+  .d_txt {
+    text-align: center;
+  }
+  .d_h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .d_P {
+    font-size: 15px;
+  }
+  /* design end */
+  /* app start */
+  .app_h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  /* app end */
+  /* service2 start */
+  .s2_m {
+    margin-bottom: 30px;
+  }
+  .s2_h2 {
+    margin-top: 18px;
+    margin-bottom: 15px;
+  }
+  .see_more {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .ulcloud {
+    margin-bottom: 45px;
+  }
+  .p {
+    display: none;
+  }
+  /* service2 end */
+  /* get awesome feature start */
+  .ga_h1 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  /* get awesome feature end */
+  /* card start */
+  .card-xsm-m {
+    margin-bottom: 30px;
+  }
+  /* card end */
+  /* meet client start */
+  .client_txt {
+    text-align: center;
+  }
+  .client_h1 {
+    margin-bottom: 15px !important;
+    margin-right: 0px;
+    font-size: 28px;
+  }
+  .client_p {
+    word-spacing: 0px;
+  }
+  .client_txt h3 {
+    font-size: 18px;
+  }
+  .client_img {
+    margin-bottom: 30px;
+  }
+
+  /* meet client end */
+  .myaccordion {
+    padding: 20px 0;
+  }
+  .g_awesome {
+    padding: 20px 0;
+  }
+  .dl_txt {
+    text-align: center;
+  }
+  footer {
+    padding: 30px 0;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header */
+  header {
+    padding: 10px;
+  }
+  .logo {
+    font-size: 22px;
+  }
+  .menu ul li a {
+    margin: 10px 0 0px;
+    padding: 0;
+    font-size: 15px;
+    text-align: right;
+  }
+  .c_btn {
+    margin-left: 405px;
+  }
+  /* banner start */
+  .w-sm-50 {
+    width: 50% !important;
+  }
+  .b_txt {
+    margin: 20px 0;
+  }
+  .b_h1 {
+    text-align: center;
+    font-size: 40px;
+    line-height: 45px;
+  }
+  .b_p {
+    margin: 20px 0;
+    text-align: center;
+    word-spacing: 0px;
+    font-size: 15px;
+  }
+
+  /* banner end */
+  /* company start */
+  .company {
+    padding: 50px 0;
+  }
+  /* company end */
+  /* feature start */
+  .cf_p {
+    font-size: 14px !important;
+  }
+  .f_h1 {
+    font-size: 30px;
+  }
+  /* feature end */
+  /* company start */
+  .s_h1 {
+    font-size: 25px;
+  }
+  .s_p {
+    font-size: 14px;
+    line-height: 22px;
+    word-spacing: 1px;
+  }
+  /* company send */
+  /* design start */
+  .design {
+    padding: 40px 0;
+  }
+  .d_txt {
+    text-align: center;
+  }
+  .d_h1 {
+    font-size: 35px;
+  }
+  .d_P {
+    font-size: 15px;
+  }
+  /* design end */
+  /* app start */
+  .app_h1 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  /* app end */
+  /* service2 start */
+  .service_2 {
+    padding-top: 50px;
+    padding-bottom: 80px;
+  }
+  .s2_m {
+    margin-bottom: 40px;
+  }
+  .s2_h2 {
+    margin-top: 18px;
+    margin-bottom: 15px;
+  }
+  /* service2 end */
+  /* ultimate service start */
+  .ultimate {
+    padding-top: 20px;
+    padding-bottom: 60px;
+  }
+  .uls_m {
+    margin-bottom: 35px;
+  }
+  .ul_h1 {
+    text-align: center;
+  }
+  .ul_p {
+    text-align: center;
+  }
+  .p {
+    display: none;
+  }
+  .see_more {
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  /* ultimate service end */
+  /* get awesome feature start */
+  .ga_h1 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  /* get awesome feature end */
+  /* meet client start */
+  .client_txt {
+    text-align: center;
+  }
+  .client_h1 {
+    margin-bottom: 15px !important;
+    margin-right: 0px;
+    font-size: 28px;
+  }
+  .client_p {
+    word-spacing: 0px;
+  }
+  .client_txt h3 {
+    font-size: 18px;
+  }
+  .client_img {
+    margin-bottom: 30px;
+  }
+
+  /* meet client end */
+  .g_awesome {
+    padding: 20px 0;
+  }
+  .myaccordion {
+    padding: 20px 0;
+  }
+  .dl_txt {
+    text-align: center;
+  }
+  footer {
+    padding: 40px 0;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header */
+  header {
+    padding: 15px;
+  }
+  .logo {
+    font-size: 25px;
+  }
+  .menu ul li a {
+    margin: 10px 0 0;
+    padding: 0;
+    text-align: right;
+  }
+  .c_btn {
+    margin-left: 585px;
+  }
+  /* banner start */
+  .w-md-75 {
+    width: 75% !important;
+  }
+  .b_txt {
+    margin: 100px 0;
+  }
+  .b_h1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+  .b_p {
+    margin: 25px 0;
+    word-spacing: 2px;
+    font-size: 16px;
+  }
+
+  /* banner end */
+  /* company start */
+  .company {
+    padding: 70px 0;
+  }
+  /* company end */
+  /* feature start */
+  .cf_p {
+    font-size: 14px !important;
+  }
+  /* feature end */
+  /* company start */
+  .s_h1 {
+    font-size: 35px;
+  }
+  .s_p {
+    font-size: 15px;
+    word-spacing: 2px;
+  }
+  /* company send */
+  /* service start */
+  .sc_h2 {
+    margin-bottom: 13px;
+    text-align: center;
+  }
+  .sc_p {
+    text-align: center;
+  }
+
+  .sc_img {
+    justify-content: center;
+    display: flex;
+  }
+  /* service end */
+  /* desing start */
+  .design {
+    padding: 50px 0;
+  }
+  .d_h1 {
+    font-size: 32px;
+    line-height: 43px;
+  }
+  /* desing end */
+  /* service2 start */
+  .s2_m {
+    margin-bottom: 50px;
+  }
+  .s2_h2 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+  /* ultimate service start */
+  .ul_h1 {
+    text-align: center;
+  }
+  .ul_p {
+    text-align: center;
+  }
+  .p {
+    display: none;
+  }
+  .see_more {
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  /* ultimate service end */
+  /* meet client start */
+  .client_h1 {
+    margin-bottom: 15px !important;
+    margin-right: -23px;
+    font-size: 28px;
+  }
+  .client_p {
+    word-spacing: 0px;
+  }
+  .client_txt h3 {
+    font-size: 18px;
+  }
+  footer {
+    padding: 60px 0;
+  }
+
+  /* meet client end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* banner start */
+  .w-xl-50 {
+    width: 50% !important;
+  }
+}
+/* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* banner start */
+  .w-xl-50 {
+    width: 50% !important;
+  }
+}

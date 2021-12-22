@@ -1,0 +1,416 @@
+/* common css start */
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #616368;
+}
+.c_padding {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+/* common css end */
+/* header start */
+header {
+  padding: 15px 0;
+}
+.cm_nav {
+}
+.logo {
+  font-size: 30px;
+  font-weight: 700;
+}
+.menu ul li a {
+  margin: 0 17px;
+  color: #242f51 !important;
+}
+.menu ul li:last-child a {
+  margin-right: 0;
+}
+.menu ul li a:hover {
+  font-weight: 700 !important;
+}
+.c_btn {
+  margin-left: 50px;
+  font-family: "Poppins" sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  border-radius: 20px;
+  background-color: #2500f9;
+}
+.c_btn:hover {
+  border: 2px solid #2500f9;
+  background-color: transparent;
+}
+.c_toggle {
+  color: #242f51 !important;
+}
+
+/* header end */
+
+/* banner start */
+.banner {
+}
+.bg_img {
+}
+.b_txt {
+  padding: 0;
+  margin: 120px 0;
+}
+.no1_p {
+  background-color: #e2eaed;
+  font-size: 16px;
+  color: #242f51;
+}
+
+.b_h1 {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #242f51;
+}
+.b_p {
+  margin: 30px 0;
+  word-spacing: 1px;
+  font-size: 18px;
+}
+.b_btn {
+  font-family: "Poppins" sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  border-radius: 20px;
+  background-color: #2500f9;
+}
+.b_btn:hover {
+  border: 2px solid #2500f9;
+  background-color: transparent;
+}
+.v_btn {
+  text-decoration: none;
+  word-spacing: 1px;
+}
+
+/* banner end */
+
+/* company start */
+.company {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+.cm_p {
+  color: #242f51;
+}
+/* company end */
+/* features start */
+.feature {
+  padding: 75px 0;
+}
+.awesome {
+}
+.f_h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #242f51;
+}
+.cf_h2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+.cf_p {
+}
+
+/* features end */
+/* smart start */
+.smart {
+  padding-bottom: 60px;
+}
+.s_h1 {
+  font-size: 40px;
+  font-weight: 600;
+  color: #242f51;
+}
+.s_p {
+}
+.cm_border {
+  border-left: 1px solid #b9b9b8;
+}
+/* smart end */
+/* service start */
+.sc {
+  max-width: 300px;
+}
+.service {
+  padding: 50px;
+}
+.sc_h2 {
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.sc_p {
+  line-height: 25px;
+}
+
+/* service end */
+/* design start */
+.design {
+  padding: 60px 0;
+}
+
+.d_h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #242f51;
+  line-height: 50px;
+}
+.d_p {
+}
+
+/* design end */
+/* app start */
+
+.app_h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #242f51;
+  line-height: 50px;
+}
+
+/* app end */
+/* service2 start */
+.service_2 {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+.s2_m {
+  margin-bottom: 60px;
+}
+.s2_h2 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #242f51;
+}
+
+/* service2 end */
+/* ultimate feature start */
+.uls_m {
+  margin-bottom: 45px;
+}
+.ul_m {
+  margin-bottom: 40px;
+}
+.ul_h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #242f51;
+}
+.see_more {
+  margin-top: 40px;
+  margin-left: 60px;
+}
+.ultimate {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+/* ultimate feature end */
+/* ger awesome feature start */
+.ga_h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #242f51;
+  line-height: 50px;
+}
+.ga_p {
+}
+.g_awesome {
+  padding: 60px 0;
+}
+/* ger awesome feature end */
+
+/* card start */
+.c_card {
+  padding: 50px 0;
+}
+.single_card {
+  box-shadow: 0 0 10px;
+}
+.card_header {
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #f4f7f9;
+}
+.card_h3 {
+  font-size: 60px;
+  font-weight: 600;
+  color: #242f51;
+}
+.card_month {
+  font-size: 18px;
+  font-weight: 400;
+  color: #616368;
+}
+.card_p {
+}
+.card_h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #242f51;
+}
+/* card end */
+/* meet client start */
+.m_client {
+}
+.client_txt {
+}
+.client_h1 {
+  margin-bottom: 20px !important;
+  margin-right: 50px;
+  font-size: 40px;
+  font-weight: 600;
+  color: #242f51;
+}
+.client_txt h3 {
+  margin-right: 0;
+  font-size: 20px;
+}
+.client_p {
+  word-spacing: 8px;
+}
+.client_icon {
+  font-size: 20px;
+  color: #ffcc00;
+}
+
+/* meet client end */
+/* carousal start */
+.slider {
+  background-color: #fcdb00;
+}
+/* indicator start */
+.cid {
+  bottom: -75px;
+}
+.cid [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.cid .active {
+  opacity: 1;
+}
+/* indicator end */
+.s_text {
+  margin-top: 70px;
+}
+
+.s_icons {
+}
+
+.s_img {
+  text-align: center;
+}
+.cr_text h1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #242f51;
+}
+.cr_text p {
+  font-size: 18px;
+}
+/* carousal end */
+/* acc  start */
+.accordian {
+  display: block;
+}
+
+.accordian .card {
+  box-shadow: 0px 0px 20px #d4d4d4;
+  margin-bottom: 20px;
+  float: left;
+  width: 100%;
+}
+.accordian .card .card-header h3 {
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  color: #242f51;
+  position: relative;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 15px 20px;
+}
+.accordian .card .card-header {
+  position: relative;
+}
+.accordian .card .card-header span {
+  position: absolute;
+  right: 20px;
+  top: 12px;
+  height: 25px;
+  width: 25px;
+  color: #3343a2;
+  background-color: #ffffff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 25px;
+  font-size: 13px;
+}
+
+.accordian .card .card-body {
+  padding: 20px;
+}
+.accordian .card .card-body {
+  display: none;
+}
+/*open one card by default*/
+.accordian .card:nth-child(1) .card-body {
+  display: block;
+}
+.accordian .card .card-body p {
+  font-size: 15px;
+  line-height: 24px;
+  color: #444444;
+  margin: 0px;
+}
+.myaccordion {
+  padding: 60px 0;
+}
+
+/* acc  end */
+/* download app start */
+.dl_h1 {
+  font-size: 48px;
+  font-weight: 600;
+  color: #242f51;
+}
+.dl_p {
+}
+footer {
+  background-color: #242f51;
+}
+
+/* download app end */
+/* footer start */
+footer {
+  padding: 80px 0;
+}
+.f_m {
+  margin-bottom: 40px;
+}
+.f-m-t {
+  margin-top: ;
+}
+.social_icon li a {
+  font-size: 30px;
+  color: #273043;
+}
+.social_icon li a:hover {
+  color: white;
+}
+/* footer send */
